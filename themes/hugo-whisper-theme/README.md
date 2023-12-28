@@ -12,7 +12,7 @@ Whisper is a minimal documentation theme built for Hugo. The design and function
 
 ### Content Types
 
-- Docs (Markdown)
+- Survey (Markdown)
 - Homepage
 
 ### Content Management
