@@ -20,3 +20,6 @@ hugo version Intro
 <div formsappId="658864339ba8b74fb4b94ab7"></div>
 <script src="https://forms.app/static/embed.js" type="text/javascript" async defer onload="new formsapp('658864339ba8b74fb4b94ab7', 'standard', {'width':'100vw','height':'600px'});"></script>
 
+```
+hugo version 1
+```
