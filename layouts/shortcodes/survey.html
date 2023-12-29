@@ -1,6 +1,6 @@
-{{ $caption := .Inner | markdownify }} {{ $param_formsappID := .Get 0 }} {{ $alt := .Get 1 | default "figure with caption"}}
+{{ $caption := .Inner | markdownify }} {{ $param_formsappID := .Get 0 }} {{ $height := .Get 1 | default "1000px"}}
 
 <div formsappId={{$param_formsappID}} class="survey-box"></div>
 <div>
-  <script src="https://forms.app/static/embed.js" type="text/javascript" async defer onload="new formsapp({{$param_formsappID}}, 'standard', {'width':'100vw','height':'1000px'});"></script>
+  <script src="https://forms.app/static/embed.js" type="text/javascript" async defer onload="new formsapp({{$param_formsappID}}, 'standard', {'width':'100vw','height':{{$height}}});"></script>
 </div>

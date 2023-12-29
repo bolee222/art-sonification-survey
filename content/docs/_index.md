@@ -1,9 +1,14 @@
 ---
-title: 'Overview'
+title: '전체 설문 순서 / Overview'
 date: 2018-11-28T15:14:39+10:00
 weight: 1
 ---
 
-## Whisper Theme
 
-Whisper is a minimal documentation theme for Hugo. The design and functionality is intentionally minimal. We’re aiming for a similar feel to a Github readme.
+설문에 응해주셔서 감사합니다!  
+앞에서 적으셨던 **닉네임**은 꼭 기억했다가 **동일한 닉네임**을 각각의 설문지에 적어주세요.
+
+아래 있는 링크를 하나씩 눌러서 설문을 완료해주시면 되고, 각 설문은 1~2분 정도씩 소요됩니다. 
+자유롭게 완료해주셔도 되지만 **꼭 순서는 맞추어서 진행해주세요**.
+
+

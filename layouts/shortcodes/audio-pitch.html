@@ -1,0 +1,28 @@
+{{ $caption := .Inner | markdownify }} {{ $param_formsappID := .Get 0 }} {{ $height := .Get 1 | default "1000px"}}
+
+
+<div class="row audio-div">
+  <div class="col-sm-1 text-middle"></div>
+  <div class="col-sm-6 text-middle" style="background-color:rgb(225, 225, 225);">
+    음의 높낮이가 <u>매우 높은</u> 스타일의 곡 (Very High Pitch)
+  </div>
+  <div class="col-sm-5" style="background-color:lavenderblush;">
+    <audio controls>
+      <source src="horse.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<div class="row audio-div">
+  <div class="col-sm-1 text-middle"></div>
+  <div class="col-sm-6 text-middle" style="background-color:rgb(225, 225, 225);">
+    음의 높낮이가 <u>매우 낮은</u> 스타일의 곡 (Very Low Pitch)
+  </div>
+  <div class="col-sm-5" style="background-color:lavenderblush;">
+    <audio controls >
+      <source src="horse.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>

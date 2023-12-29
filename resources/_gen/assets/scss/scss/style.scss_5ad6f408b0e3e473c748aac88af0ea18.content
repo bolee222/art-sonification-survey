@@ -7604,17 +7604,18 @@ p {
   border: 2px solid #fff; }
 
 .title {
-  font-size: 2.0rem !important;
-  font-weight: 700 !important;
+  font-size: 2.8rem !important;
+  font-weight: 800 !important;
   line-height: 1.1;
   font-family: "Roboto", Arial, sans-serif, -apple-system;
   letter-spacing: -0.2px;
   font-weight: 100;
+  margin-top: 20px;
   margin-bottom: 20px; }
   @media (min-width: 768px) {
     .title {
       font-size: 3rem;
-      margin-bottom: 30px; } }
+      margin-bottom: 70px !important; } }
 .title-summary {
   font-size: 1.6rem;
   line-height: 1.4;
@@ -7625,6 +7626,9 @@ p {
   @media (min-width: 768px) {
     .title-summary {
       font-size: 1.6rem; } }
+  .title-summary title-summary:hover {
+    color: aqua; }
+
 .content {
   -webkit-font-smoothing: antialiased; }
   .content .highlight {
@@ -7674,11 +7678,15 @@ p {
   .content a {
     text-decoration: underline; }
   .content p {
+    text-align: left;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
-    font-size: 1rem;
-    line-height: 1.4;
+    font-size: 1.0rem !important;
+    line-height: 1.5;
     color: #383f45;
     font-weight: 400; }
+  .content p strong {
+    font-weight: 800;
+    color: black; }
   .content h1 {
     font-family: "Roboto", Arial, sans-serif, -apple-system;
     font-size: 2.6rem;
@@ -7686,12 +7694,16 @@ p {
     font-weight: 300;
     margin-bottom: 20px; }
   .content h2 {
-    font-size: 2.2rem;
+    text-align: left;
+    margin-top: 16px;
+    font-size: 1.0rem;
+    text-decoration: underline;
     line-height: 1.4;
-    font-weight: 300;
+    font-weight: 600;
     letter-spacing: -0.01em;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
-    margin-bottom: 20px; }
+    margin-bottom: 10px;
+    margin-left: 100px; }
   .content h3 {
     font-size: 1.6rem;
     line-height: 1.4;
@@ -7705,17 +7717,21 @@ p {
     font-family: "Roboto", Arial, sans-serif, -apple-system;
     margin-bottom: 20px; }
   .content h5 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     line-height: 1.4;
-    font-weight: 600;
+    font-weight: 800;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+    margin-top: 70px !important;
+    background-color: #fcf19f;
+    display: inline-flex; }
   .content h6 {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     line-height: 1.4;
-    font-weight: 700;
+    font-weight: 800;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
-    margin-bottom: 20px; }
+    margin-top: 20px;
+    margin-bottom: 10px; }
   .content blockquote {
     background: #f9f9f9;
     border-left: 10px solid #ccc;
@@ -7811,15 +7827,9 @@ p {
     font-family: "Roboto", Arial, sans-serif, -apple-system; }
   .page-home p {
     margin: 0 auto;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-weight: lighter;
     margin-bottom: 40px; }
-    @media (min-width: 768px) {
-      .page-home p {
-        width: 80%; } }
-    @media (min-width: 992px) {
-      .page-home p {
-        width: 60%; } }
   .page-home .terminal {
     border-radius: 3px;
     margin: 0 auto;
@@ -7841,7 +7851,17 @@ body {
 
 .survey-box {
   border-style: solid;
-  border-width: 5px;
-  border-color: black; }
+  border-width: 2px;
+  border-color: black;
+  margin-bottom: 50px; }
+
+.text-middle {
+  vertical-align: middle !important;
+  padding: 20px 25px;
+  font-size: 0.9rem;
+  font-weight: 700; }
+
+.audio-div {
+  padding: 5px; }
 
 /*# sourceMappingURL=style.css.map */
