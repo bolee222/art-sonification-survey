@@ -55,3 +55,11 @@ This survey includes questions asking about the **tempo** and **pitch** of music
 
 ###### 음악의 높낮이 샘플 (PITCH)
 {{<audio-pitch>}}{{</audio-pitch>}}
+
+
+##### 다음페이지로 넘어가기 전에 'Submit'버튼 누르기!
+
+각 페이지의 설문을 마무리 하고 다음 페이지로 넘어가기 전에, 꼭 Submit버튼을 눌러주세요. 그래야 데이터가 전달됩니다.
+Before concluding each survey page and moving on to the next, please make sure to press the "Submit" button. This is essential for the data to be transmitted.
+{{< figure "/images/submit.png" "Submit Button" >}}{{< /figure >}}
+

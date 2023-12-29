@@ -7,7 +7,7 @@ weight: 30
 
 
 {{<survey "65896568e51bb1cf52e7721b">}}
+{{</survey>}}
 
-<div formsappId="658864339ba8b74fb4b94ab7"></div>
-<script src="https://forms.app/static/embed.js" type="text/javascript" async defer onload="new formsapp('658864339ba8b74fb4b94ab7', 'standard', {'width':'100vw','height':'600px'});"></script>
-
+다음으로 넘어가기 전에 위의 설문에서 **까만색 submit 버튼을 눌러** 동의서를 제출했는지 한번 더 확인해주세요.  
+Before proceeding to the next step, please confirm once again whether you have submitted the consent form above **by clicking the black button**.
