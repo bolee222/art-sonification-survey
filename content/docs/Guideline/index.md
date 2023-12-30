@@ -34,10 +34,10 @@ And when expressing parts of the picture, please mark **based on the divisions o
 
 
 예시 1 (Example 1):
-{{< figure "/images/survey-guideline.png" "segmentation guideline" >}}{{< /figure >}}
+{{< figure "/images/survey-guideline.jpg" "segmentation guideline" >}}{{< /figure >}}
 
 예시 2 (Example 2):
-{{< figure "/images/survey-guideline2.png" "segmentation guideline" >}}{{< /figure >}}
+{{< figure "/images/survey-guideline2.jpg" "segmentation guideline" >}}{{< /figure >}}
 
 
 ##### 음악의 빠르기 (tempo) 및 높낮이 (pitch)
