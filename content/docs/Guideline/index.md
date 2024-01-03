@@ -40,7 +40,7 @@ And when expressing parts of the picture, please mark **based on the divisions o
 {{< figure "/images/survey-guideline2.jpg" "segmentation guideline" >}}{{< /figure >}}
 
 
-##### 음악의 빠르기 (tempo) 및 높낮이 (pitch)
+##### 음악의 빠르기, 높낮이, 밀도 (tempo, pitch, density)
 
 본 설문에는 그림을 잘 표현할 수 있다고 생각되는 음악의 **빠르기**와 **높낮이**를 7점척도로 물어보는 질문이 포함되어있습니다. 
 헷갈리시는 분들을 위해 이해를 위한 **샘플 오디오**를 들려드립니다. 답변 시 참고해주시면 됩니다. 

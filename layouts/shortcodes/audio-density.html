@@ -2,26 +2,40 @@
 
 
 <div class="row audio-div">
-  <div class="col-sm-1 text-middle"></div>
+  <div class="col-sm-1 text-middle"> ↓ </div>
   <div class="col-sm-6 text-middle" style="background-color:rgb(241, 241, 241);">
     <u>매우 낮은 밀도</u>의 곡 (Very Sparse)
   </div>
   <div class="col-sm-5">
     <audio controls >
-      <source src="horse.mp3" type="audio/mpeg">
+      <source src="{{ "density-low.wav" | absURL}}" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
   </div>
 </div>
 
 <div class="row audio-div">
-  <div class="col-sm-1 text-middle"></div>
+  <div class="col-sm-1 text-middle"> — </div>
+  <div class="col-sm-6 text-middle" style="background-color:rgb(241, 241, 241);">
+    <u>보통 밀도</u>의 곡 (Moderate Dense)
+  </div>
+  <div class="col-sm-5">
+    <audio controls>
+      <source src="{{ "density-normal.wav" | absURL}}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+
+<div class="row audio-div">
+  <div class="col-sm-1 text-middle"> ↑ </div>
   <div class="col-sm-6 text-middle" style="background-color:rgb(241, 241, 241);">
     <u>매우 높은 밀도</u>의 곡 (Very Dense)
   </div>
   <div class="col-sm-5">
     <audio controls>
-      <source src="horse.mp3" type="audio/mpeg">
+      <source src="{{ "density-high.wav" | absURL}}" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
   </div>
