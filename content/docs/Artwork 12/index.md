@@ -21,3 +21,6 @@ When answering the last two questions, feel free to refer to the audio sample be
 
 ###### 음악의 높낮이 샘플 (PITCH)
 {{<audio-pitch>}}{{</audio-pitch>}}
+
+###### 음악의 밀도 샘플 (Density)
+{{<audio-density>}}{{</audio-density>}}
