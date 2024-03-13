@@ -23,7 +23,7 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Survey"
+    name = "Guidelines"
     url = "/docs/"
     weight = 2
 
@@ -31,7 +31,7 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Start the Survey'
+  homepage_button_text = 'Survey Guidelines'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = ''
 
