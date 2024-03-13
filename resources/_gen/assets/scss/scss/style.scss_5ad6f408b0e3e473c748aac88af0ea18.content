@@ -7680,7 +7680,7 @@ p {
   .content p {
     text-align: left;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
-    font-size: 1.5rem !important;
+    font-size: 16px !important;
     line-height: 1.5;
     color: #383f45;
     font-weight: 400; }
@@ -7717,7 +7717,7 @@ p {
     font-family: "Roboto", Arial, sans-serif, -apple-system;
     margin-bottom: 20px; }
   .content h5 {
-    font-size: 1.8rem;
+    font-size: 20px;
     line-height: 1.4;
     font-weight: 800;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
@@ -7726,7 +7726,7 @@ p {
     background-color: #fcf19f;
     display: inline-flex; }
   .content h6 {
-    font-size: 1.4rem;
+    font-size: 18px;
     line-height: 1.4;
     font-weight: 800;
     font-family: "Roboto", Arial, sans-serif, -apple-system;
@@ -7857,18 +7857,16 @@ body {
 
 .text-middle {
   vertical-align: middle !important;
-  font-size: 1.3rem !important;
+  font-size: 16px !important;
   padding: 20px 25px;
   font-weight: 700; }
 
 .text-middle u {
-  font-size: 1.3rem;
   color: rgba(36, 54, 255, 0.859); }
 
 .text-middle u b {
   color: rgba(36, 54, 255, 0.859);
-  font-weight: 900;
-  font-size: 1.3rem; }
+  font-weight: 900; }
 
 .audio-div {
   padding: 5px; }
