@@ -1,5 +1,5 @@
 ---
-title: '예술작품 기반 AI 음악 생성 기술 연구'
+title: 'Understanding your perceptions with the Paintings and their musical representations'
 date: 2018-11-28T15:14:39+10:00
 ---
 
