@@ -11,8 +11,6 @@ weight: 21
 - **Sense of Dynamics/Movements**: Being active and dynamically perceived rather than static.
 
 
-{{<survey "658d797dda53a935f8a33f88" "1000px">}}{{</survey>}}
-
 마지막 두 문항을 답변할 때, 오디오 샘플을 참고하고싶으실 때 아래 오디오를 재생해주시면 됩니다. 
 When answering the last two questions, feel free to refer to the audio sample below if you wish.
 

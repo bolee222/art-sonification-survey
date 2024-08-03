@@ -29,5 +29,4 @@ For detailed information about this survey, you can refer to [this document]().
 If you agree to participate in this survey, please choose a nickname in the box below, check the consent box, and press the black button labeled 'Submit.' Then, click the blue button that says "Start the Survey" to begin.
 
 
-{{<survey "658d44ebda53a935f8a33f5b" "700px">}}
 

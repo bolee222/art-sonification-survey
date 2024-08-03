@@ -10,8 +10,6 @@ weight: 5
 - **역동성**: 작품이 정적이 아닌 활동적이고 움직임있게 느껴지는 특성
 - **Sense of Dynamics/Movements**: Being active and dynamically perceived rather than static.
 
-{{<survey "658963d19ba8b745e0b99a05" "1000px">}}{{</survey>}}
-
 마지막 두 문항을 답변할 때, 오디오 샘플을 참고하고싶으실 때 아래 오디오를 재생해주시면 됩니다. 
 When answering the last two questions, feel free to refer to the audio sample below if you wish.
 
