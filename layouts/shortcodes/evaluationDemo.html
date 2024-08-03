@@ -1,0 +1,31 @@
+{{ $caption := .Inner | markdownify }} {{ $url_image := .Get 0 }} {{ $url_soundA := .Get 1 }} {{ $url_soundB := .Get 2 }} {{ $url_soundC := .Get 3 }} {{ $height := .Get 4 | default "1000px"}}
+
+
+<div class="row audio-div">
+  <div class="col-sm-6 text-middle" style="background-color:rgb(241, 241, 241);">
+    <div class="card" style="background-color: #ebf4fc">
+      <img class="card-img-top" src="{{ $url_image }}"/>
+      <div class="card-body">
+          <p class="card-text">{{ $caption | safeHTML }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="soundTitle"> Sound A (Posify)</div>
+    <audio controls >
+      <source src="{{ $url_soundA }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <div class="soundTitle"> Sound B (Posify)</div>
+    <audio controls >
+      <source src="{{ $url_soundB }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <div class="soundTitle"> Sound C (Posify)</div>
+    <audio controls >
+      <source src="{{ $url_soundC }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </div>
+
+</div>
