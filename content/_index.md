@@ -1,5 +1,5 @@
 ---
-title: '예술작품 기반 AI 음악 생성 기술 연구'
+title: 'Ponify: Pose-based Art Sonification Method to Convey Sense of Dynamics of the Paintings'
 date: 2018-11-28T15:14:39+10:00
 ---
 
