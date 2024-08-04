@@ -11,6 +11,22 @@ The below demonstrates the musical sounds that were automatically generated usin
 
 
 ##### POSIFY DEMO 
+
+{{<paintingDemo "/images/extras/50.jpg" "/images/extras/50.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/extras/51.jpg" "/images/extras/51.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/extras/53.jpg" "/images/extras/53.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/extras/54.jpg" "/images/extras/54.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/extras/55.jpg" "/images/extras/55.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/extras/57.jpg" "/images/extras/57.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/extras/63.jpg" "/images/extras/63.mp3">}}{{</paintingDemo>}}
+
+
 {{<paintingDemo "/images/paintings/1.jpg" "/images/sounds/1.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/paintings/2.jpg" "/images/sounds/2.mp3">}}{{</paintingDemo>}}
