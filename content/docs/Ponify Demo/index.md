@@ -14,9 +14,13 @@ The below demonstrates the musical sounds that were automatically generated usin
 
 {{<paintingDemo "/images/extras/50.jpg" "/images/extras/50.mp3">}}{{</paintingDemo>}}
 
-{{<paintingDemo "/images/extras/51.jpg" "/images/extras/51.mp3">}}{{</paintingDemo>}}
+{{<paintingDemo "/images/paintings/1.jpg" "/images/sounds/1.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/extras/53.jpg" "/images/extras/53.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/paintings/3.jpg" "/images/sounds/3.mp3">}}{{</paintingDemo>}}
+
+{{<paintingDemo "/images/paintings/6.jpg" "/images/sounds/6.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/extras/54.jpg" "/images/extras/54.mp3">}}{{</paintingDemo>}}
 
@@ -26,18 +30,18 @@ The below demonstrates the musical sounds that were automatically generated usin
 
 {{<paintingDemo "/images/extras/63.jpg" "/images/extras/63.mp3">}}{{</paintingDemo>}}
 
+{{<paintingDemo "/images/extras/51.jpg" "/images/extras/51.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/paintings/1.jpg" "/images/sounds/1.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/paintings/2.jpg" "/images/sounds/2.mp3">}}{{</paintingDemo>}}
 
-{{<paintingDemo "/images/paintings/3.jpg" "/images/sounds/3.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/paintings/4.jpg" "/images/sounds/4.mp3">}}{{</paintingDemo>}}
 
 {{<paintingDemo "/images/paintings/5.jpg" "/images/sounds/5.mp3">}}{{</paintingDemo>}}
 
-{{<paintingDemo "/images/paintings/6.jpg" "/images/sounds/6.mp3">}}{{</paintingDemo>}}
+
 
 {{<paintingDemo "/images/paintings/7.jpg" "/images/sounds/7.mp3">}}{{</paintingDemo>}}
 
