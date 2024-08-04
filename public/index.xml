@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 11 Feb 2019 19:27:37 +1000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Audio Samples</title>
-      <link>//localhost:1313/docs/guideline/</link>
+      <title>Study Demo</title>
+      <link>//localhost:1313/docs/study-demo/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      <guid>//localhost:1313/docs/guideline/</guid>
+      <guid>//localhost:1313/docs/study-demo/</guid>
       <description>This page introduces painting and sound dataset used for the user evaluation study.&#xA;Painting Set used for User Evaluation Study Musical Sound Set used for User Evaluation Study Ponify User Evaluation Demo Sound A (Posify) Your browser does not support the audio element. Sound B (Posify) Your browser does not support the audio element. Sound C (Posify) Your browser does not support the audio element. Sound A (Posify) Your browser does not support the audio element.</description>
     </item>
   </channel>
