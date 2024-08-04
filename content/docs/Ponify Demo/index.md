@@ -5,9 +5,8 @@ weight: 2
 ---
 
 
-**Ponify** is a method that....
 
-The below demonstrates the musical sounds that were automatically generated using a painting image as an input. 
+The below demonstrates the musical sounds that were automatically generated via Ponify, using a painting image as an input. 
 
 
 ##### POSIFY DEMO 
