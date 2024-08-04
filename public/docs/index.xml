@@ -9,10 +9,17 @@
     <lastBuildDate>Mon, 11 Feb 2019 19:27:37 +1000</lastBuildDate>
     <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Posify Demo</title>
-      <link>//localhost:1313/docs/posify-demo/</link>
+      <title>Intro.</title>
+      <link>//localhost:1313/docs/ponify-intro/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      <guid>//localhost:1313/docs/posify-demo/</guid>
+      <guid>//localhost:1313/docs/ponify-intro/</guid>
+      <description>Ponify is a method that&amp;hellip;.</description>
+    </item>
+    <item>
+      <title>Ponify Demo</title>
+      <link>//localhost:1313/docs/ponify-demo/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      <guid>//localhost:1313/docs/ponify-demo/</guid>
       <description>Ponify is a method that&amp;hellip;.&#xA;The below demonstrates the musical sounds that were automatically generated using a painting image as an input.&#xA;POSIFY DEMO Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element.</description>
     </item>
     <item>
