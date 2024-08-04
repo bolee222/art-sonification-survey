@@ -5,8 +5,7 @@ weight: 2
 ---
 
 
-
-The below demonstrates the musical sounds that were automatically generated via Ponify, using a painting image as an input. 
+This paper introduced a new paradigm of integrating posture recognition and analysis framework with artwork sonification methods, as a way of conveying dynamic perceptions accompanied with paintings through sounds. The below demonstrates the musical sounds that were automatically generated via Ponify, using a painting image as an input. 
 
 
 ##### POSIFY DEMO 
