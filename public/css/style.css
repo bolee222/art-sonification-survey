@@ -7871,4 +7871,9 @@ body {
 .audio-div {
   padding: 5px; }
 
+.soundTitle {
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 5px; }
+
 /*# sourceMappingURL=style.css.map */
