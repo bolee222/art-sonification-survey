@@ -5,7 +5,7 @@ weight: 2
 ---
 
 
-The following showcases the musical sounds generated automatically by Ponify, using a painting image as input. Explore the audio files below to understand how the sound files capture the dynamic elements of the painting.
+The following showcases the musical sounds generated automatically by Ponify, using a painting image as input. Explore the audio files below to understand **how the sound files capture the dynamic elements of the painting**.
 
 ##### POSIFY DEMO 
 
