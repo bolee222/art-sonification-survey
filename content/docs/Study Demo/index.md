@@ -15,7 +15,7 @@ This page introduces painting and sound dataset used for the user evaluation stu
 
 
 ##### Musical Sound Set used for User Evaluation Study
-{{< figure "/images/soundCriteria.png" "sound criteria" >}}{{< /figure >}}
+{{< figure "/images/soundStimuli.png" "sound criteria" >}}{{< /figure >}}
 
 
 
@@ -47,8 +47,3 @@ This page introduces painting and sound dataset used for the user evaluation stu
 {{<evaluationDemo "/images/paintings/12.jpg" "/images/soundsA/12.mp3" "/images/soundsB/12.mp3" "/images/sounds/12.mp3">}}{{</evaluationDemo>}}
 
 
-
-
-##### 다음페이지로 넘어가기 전에 'Submit'버튼 누르기!
-각 페이지의 설문을 마무리 하고 다음 페이지로 넘어가기 전에, 꼭 Submit버튼을 눌러주세요. 그래야 데이터가 전달됩니다.  
-Before concluding each survey page and moving on to the next, please make sure to press the "Submit" button. This is essential for the data to be transmitted.

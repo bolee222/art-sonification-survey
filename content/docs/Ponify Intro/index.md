@@ -5,8 +5,8 @@ weight: 1
 ---
 
 
-**Ponify** is a method that....
+**Ponify** method uses pose analysis to generate music that reflects a painting’s dynamic perception. It first analyzes human poses to predict a sense of dynamics (SoD), then translates this into musical parameters like tempo and density. The chord progression is based on the painting’s dominant colors, using the Circle of Fifths. The process is fully automated.
 
 
 
-{{< figure "/images/framework.jpg" "Ponify Workflow" >}}{{< /figure >}}
+{{< figure "/images/framework2.jpg" "Ponify Workflow" >}}{{< /figure >}}

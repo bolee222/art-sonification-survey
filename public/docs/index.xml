@@ -13,14 +13,14 @@
       <link>//localhost:1313/docs/ponify-intro/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       <guid>//localhost:1313/docs/ponify-intro/</guid>
-      <description>Ponify is a method that&amp;hellip;.</description>
+      <description>Ponify method uses pose analysis to generate music that reflects a painting’s dynamic perception. It first analyzes human poses to predict a sense of dynamics (SoD), then translates this into musical parameters like tempo and density. The chord progression is based on the painting’s dominant colors, using the Circle of Fifths. The process is fully automated.</description>
     </item>
     <item>
       <title>Ponify Demo</title>
       <link>//localhost:1313/docs/ponify-demo/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       <guid>//localhost:1313/docs/ponify-demo/</guid>
-      <description>This paper introduced a new paradigm of integrating posture recognition and analysis framework with artwork sonification methods, as a way of conveying dynamic perceptions accompanied with paintings through sounds. The below demonstrates the musical sounds that were automatically generated via Ponify, using a painting image as an input.&#xA;POSIFY DEMO Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element.</description>
+      <description>The following showcases the musical sounds generated automatically by Ponify, using a painting image as input. Explore the audio files below to understand how the sound files capture the dynamic elements of the painting.&#xA;POSIFY DEMO Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element.</description>
     </item>
     <item>
       <title>Study Demo</title>
