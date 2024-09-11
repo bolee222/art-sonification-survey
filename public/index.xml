@@ -23,11 +23,11 @@
       <description>The following showcases the musical sounds generated automatically by Ponify, using a painting image as input. Explore the audio files below to understand how the sound files capture the dynamic elements of the painting.&#xA;POSIFY DEMO Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element.</description>
     </item>
     <item>
-      <title>Study Demo</title>
-      <link>//localhost:1313/docs/study-demo/</link>
+      <title>Tempo/Density/Pitch</title>
+      <link>//localhost:1313/docs/musical-parameter/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      <guid>//localhost:1313/docs/study-demo/</guid>
-      <description>This page introduces painting and sound dataset used for the user evaluation study.&#xA;Painting Set used for User Evaluation Study Musical Sound Set used for User Evaluation Study Ponify User Evaluation Demo Sound A (existing) Your browser does not support the audio element. Sound B (Ponify-half) Your browser does not support the audio element. Sound C (Ponify-full) Your browser does not support the audio element. Sound A (existing) Your browser does not support the audio element.</description>
+      <guid>//localhost:1313/docs/musical-parameter/</guid>
+      <description>These are the sample audios provided to participants to help them understand musical parameters (tempo, pitch, and density) prior to answering the Formative Study questionnaires (Section 3). These audio samples have been created by tweaking the same melody of Mozart’s K.265 (Ah! Vous Dirai-je, Maman) in 3 different parameters using 3 variations (low, normal, high). Participants were able to listen to these audio samples whenever they need to during the survey.</description>
     </item>
   </channel>
 </rss>
